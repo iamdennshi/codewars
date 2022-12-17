@@ -1,4 +1,8 @@
-[![image](/image.png)](https://www.codewars.com/kata/52a382ee44408cea2500074c/train/javascript)
 
+
+These solutions for education purpose only.  
+### Change the branch to see the solved task
+
+[![image](/image.png)](https://www.codewars.com/kata/52a382ee44408cea2500074c/train/javascript)
 ### Solutions:
 * JavaScript - [link](/main.js)
