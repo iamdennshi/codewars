@@ -1,4 +1,4 @@
-// Task - https://www.codewars.com/kata/52a382ee44408cea2500074c/train/javascript
+// Task - https://www.codewars.com/kata/52a382ee44408cea2500074c
 
 function determinant(m) {
     if (m.length == 1) {
